@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <header className="bg-gray-900 text-white py-4 px-4 sm:px-8 flex justify-between items-center shadow-md">
             <div className='mr-4 flex items-center'>
-                <a href="/home">
+                <a href="/">
                     <h1 className='font-sans text-2xl font-bold'>ValoList</h1>
                 </a>
             </div>

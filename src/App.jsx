@@ -25,7 +25,7 @@ function App() {
       <Header />
       <div className="w-full min-h-screen bg-gray-900">
         <Routes>
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/agents/:uuid" element={<AgentDetails />} />
           <Route path="/maps/:uuid" element={<MapDetails />} />
