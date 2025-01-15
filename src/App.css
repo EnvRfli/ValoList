@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Tungsten';
+    src: url('/561f38b1f4570de0fb8a39d691ab058c.eot'); 
+    src: url('/561f38b1f4570de0fb8a39d691ab058c.eot?#iefix') format('embedded-opentype'),
+         url('/561f38b1f4570de0fb8a39d691ab058c.woff2') format('woff2'),
+         url('/561f38b1f4570de0fb8a39d691ab058c.woff') format('woff'),
+         url('/561f38b1f4570de0fb8a39d691ab058c.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
